@@ -1,5 +1,4 @@
-day = 0
-
+day = __file__.split('.')[0]
 
 def algo1(data):
     pass
